@@ -69,6 +69,7 @@ if cal_chi2_sq<table_chi2:
 else:
     print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
 ```
-# Results and Output : 
+# Output : 
  ![image](https://user-images.githubusercontent.com/94165108/203696854-dc0502c8-de11-4f7d-89a4-a409e092e13f.png)
-
+# Result :
+Poisson distribution for the arrival of objects per minute from the feeder is fitted successfully.
